@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=44&duration=3000&pause=1500&color=2196F3&center=true&vCenter=true&width=900&height=80&lines=H%C3%A9ctor+Wood+Santana;Computer+Engineering+Graduate;Python+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;PHP+%C2%B7+Laravel+%C2%B7+Linux" alt="Héctor Wood Santana" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=44&duration=3000&pause=1500&color=2196F3&center=true&vCenter=true&repeat=false&width=900&height=80&lines=Hi%2C+I%27m+H%C3%A9ctor+Wood+Santana" alt="Héctor Wood Santana" />
 </p>
 
 Computer Engineering graduate from the University of Las Palmas de Gran Canaria (ULPGC). I work with Python and deep learning for computer vision, and with PHP and Laravel for web development.
